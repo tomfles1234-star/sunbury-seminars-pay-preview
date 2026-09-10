@@ -1,0 +1,50 @@
+{
+  "buyer": {
+    "first": "Stuck",
+    "last": "Fix",
+    "email": "stuck.fix@example.com",
+    "phone": "6145550444",
+    "practice": "Fix",
+    "attending": true,
+    "street": "4 Main",
+    "city": "Sunbury",
+    "state": "OH",
+    "zip": "43074"
+  },
+  "people": [
+    {
+      "role": "dentist",
+      "first": "Stuck",
+      "last": "Fix",
+      "email": "stuck.fix@example.com",
+      "phone": "6145550444",
+      "street": "4 Main",
+      "city": "Sunbury",
+      "state": "OH",
+      "zip": "43074"
+    }
+  ],
+  "rows": [
+    {
+      "Submitted": "2026-09-10T21:39:45.138Z",
+      "CourseDate": "2026-10-24",
+      "Practice": "Fix",
+      "PayerFirst": "Stuck",
+      "PayerLast": "Fix",
+      "PayerEmail": "stuck.fix@example.com",
+      "PayerPhone": "6145550444",
+      "PayerAttending": "Yes",
+      "FirstName": "Stuck",
+      "LastName": "Fix",
+      "Email": "stuck.fix@example.com",
+      "Phone": "6145550444",
+      "Street": "4 Main",
+      "City": "Sunbury",
+      "State": "OH",
+      "ZIP": "43074",
+      "Title": "Dentist",
+      "Fee": 525
+    }
+  ],
+  "total": 525
+}
